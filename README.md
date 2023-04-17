@@ -20,4 +20,5 @@
 
 ###### RNF's (Requisitos não-funcionais)
 
-* [ ]
+* [ ] Os dados da aplicação precisam estar persistidos em um banco SQLite.
+* [ ] Todas listas de dados precisam estar paginadas com 20 itens por página.
